@@ -8,3 +8,4 @@ by 박은성
 
 + 장고 개발환경 셋팅
 + Git/Github
++ URLConf
